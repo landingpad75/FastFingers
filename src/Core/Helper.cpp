@@ -1,5 +1,5 @@
 #include "Helper.hpp"
-#include <glad/glad.h>
+#include <glad/glad.hpp>
 
 void Helper::clearColor(const Color& col) {
     Color color = col.getGLColors();

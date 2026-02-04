@@ -2,7 +2,7 @@
 #include "Error.hpp"
 #include "Helper.hpp"
 #include "Game.hpp"
-#include <glad/glad.h>
+#include <glad/glad.hpp>
 #include <GLFW/glfw3.h>
 
 int main() {

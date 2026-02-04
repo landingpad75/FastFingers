@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Application.hpp"
 #include "Error.hpp"
-#include <glad/glad.h>
+#include <glad/glad.hpp>
 #include <glfw/glfw3.h>
 
 Application::Application()
